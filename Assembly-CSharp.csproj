@@ -55,11 +55,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Grid\Grid.cs" />
     <Compile Include="Assets\Tween\Demo\TweenDemo.cs" />
-    <Compile Include="Assets\Tween\Tween.cs" />
     <Compile Include="Assets\Scripts\Grid\GridSquare.cs" />
+    <Compile Include="Assets\Tween\Tween.cs" />
+    <Compile Include="Assets\Scripts\Shapes\ShapeData.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\BlockAdventureGameAsset\License.txt" />
+    <None Include="Assets\Sprites\BlockAdventureGameAsset\License.txt" />
     <None Include="Assets\Tween\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
