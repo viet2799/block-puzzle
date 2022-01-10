@@ -510,7 +510,7 @@ MonoBehaviour:
   rows: 10
   squareGap: 3
   gridSquare: {fileID: 8738127175465478582, guid: b8a4f3d256727304cae15ca2245f6a86, type: 3}
-  startPosition: {x: -469, y: 431}
+  startPosition: {x: -471, y: 431}
   squareScale: 0.9
   everySquareOffset: 1
 --- !u!1 &1649570992

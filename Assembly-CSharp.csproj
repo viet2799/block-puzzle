@@ -56,8 +56,10 @@
     <Compile Include="Assets\Scripts\Grid\Grid.cs" />
     <Compile Include="Assets\Tween\Demo\TweenDemo.cs" />
     <Compile Include="Assets\Scripts\Grid\GridSquare.cs" />
-    <Compile Include="Assets\Tween\Tween.cs" />
     <Compile Include="Assets\Scripts\Shapes\ShapeData.cs" />
+    <Compile Include="Assets\Tween\Tween.cs" />
+    <Compile Include="Assets\Scripts\Shapes\ShapeSquare.cs" />
+    <Compile Include="Assets\Scripts\Shapes\Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Sprites\BlockAdventureGameAsset\License.txt" />
